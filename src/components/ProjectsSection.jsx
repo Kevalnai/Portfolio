@@ -8,7 +8,7 @@ const projects = [
     image: "/projects/project1.png",
     tags: ["C#", "Monogame"],
     demoUrl: "#",
-    githubUrl: "#",
+    githubUrl: "https://github.com/Kevalnai/Flappy_bird",
   },
   {
     id: 2,
@@ -18,7 +18,7 @@ const projects = [
     image: "/projects/project2.png",
     tags: ["C#", "Asp.Net", "LINQ"],
     demoUrl: "#",
-    githubUrl: "#",
+    githubUrl: "https://github.com/Kevalnai/CustomerInvoicesApp",
   },
   {
     id: 3,
@@ -28,7 +28,7 @@ const projects = [
     image: "/projects/project3.png",
     tags: ["C#", "Asp.Net", "Entity FrameWork"],
     demoUrl: "#",
-    githubUrl: "#",
+    githubUrl: "https://github.com/Kevalnai/FavSoccerPlayersApp/tree/master/FavSoccerPlayersApp",
   },
 
   {
@@ -39,7 +39,7 @@ const projects = [
     image: "/projects/project4.png",
     tags: ["Javascript", "Node.js", "express", "Mongodb"],
     demoUrl: "#",
-    githubUrl: "#",
+    githubUrl: "https://github.com/Kevalnai/Delivery_system",
   },
   {
     id: 5,
